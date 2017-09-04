@@ -4,6 +4,7 @@ li {
     background: #ADD8E6;
     padding: 10px 30px;
     margin: 0px 20px;
+    position: relative;
 }
 
 ul {
@@ -24,3 +25,11 @@ body {
     height: 100%;
 }
 
+
+.menu {
+    position: absolute;
+    width:100%;
+    top: 100%;
+    left:0px;
+    margin-top:3px;
+}
