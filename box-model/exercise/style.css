@@ -22,4 +22,9 @@ html {
 
 body {
     height: 100%;
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
 }
